@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.image {
+    float:left;
+    margin: 5px;
+}
+
+.row {
+    width: 810px;
+    margin: 10px auto;
+    clear: both;
+    overflow: hidden;
+}
